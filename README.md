@@ -10,7 +10,9 @@ Bir adet excel dosyası ve bir adet .exe uzantılı program.
 
 Hazırladığım excel dosyası ile "ders kredisi" yazan bölümün altına derslerin AKTS'lerini yazıp yanındaki harf notlarını seçerek dönem içindeki ortalamanızı hesaplayabilirsiniz. İsterseniz "Ders 1, Ders 2" şeklindeki ders isimlendirmelerini, aldığınız dersin adıyla değiştirebilir ve excel dosyasını kaydedebilirsiniz. Böylece daha sonra ortalamanızı görmek istediğinizde tekrar ders kredilerini ve harf notlarını girmenize gerek kalmaz. İndirmek için: [Github üzerinden indirmek için tıklayın: İKÜ Ortalama Hesaplama.xlsx](https://github.com/Kerem723/IKU_Ortalama_Hesaplama/raw/main/%C4%B0K%C3%9C%20Ortalama%20Hesaplama.xlsx)
 
-![](https://img.imgyukle.com/2023/10/11/yP9T4n.jpeg)
+![adsgfdhjkh](https://img.imgyukle.com/2023/10/11/yP9T4n.jpeg)
+![excelprogram](https://github.com/Kerem723/IKU_Ortalama_Hesaplama/assets/140149231/2e4b731e-0a26-48be-8393-52ea304e75a7)
+
 
 ## .exe Uygulaması
 
