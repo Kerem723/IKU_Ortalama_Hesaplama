@@ -1,0 +1,1 @@
+# IKU_Ortalama_Hesaplama
